@@ -1,0 +1,15 @@
+BEANTALK PLAN
+
+Frontend: Html, Css, React.js
+
+Backend:
+Server - Node.js Websockets
+Database - MySQL
+
+
+1. Create a simple frontend interface
+2. Program the server using nodejs and Websockets
+3. Store all information using mySQL
+4. Create profile/friend system
+5. Integrate Server and Database
+6. Websocket javascript client for realtime messaging between server and client
